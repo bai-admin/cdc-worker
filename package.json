@@ -22,7 +22,7 @@
     "avro-js": "^1.12.0",
     "convex": "^1.25.0",
     "p-retry": "^6.2.1",
-    "salesforce-pubsub-api-client": "^5.3.1",
+    "salesforce-pubsub-api-client": "^5.5.0",
     "zod": "^3.22.4"
   },
   "devDependencies": {
